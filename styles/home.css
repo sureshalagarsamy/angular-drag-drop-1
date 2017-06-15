@@ -1,0 +1,27 @@
+.productListRoot {
+	min-height: 200px;
+    display: inline-block;
+    border: 1px solid #CCC;
+    box-shadow: 0 0 9px 0 #BBB;
+    border-radius: 9px;
+    padding: 9px;
+}
+
+.productList {
+    box-shadow: 0 0 5px 0 #BBB;
+    border: 1px solid #BBB;
+    margin-bottom: 9px;
+    border-radius: 3px;
+}
+
+.productListData {
+    border-radius: 3px;
+    padding: 0 9px;
+    height: 27px;
+    line-height: 27px;
+    background-color: #D3FF7C;
+}
+
+.bucket {
+    min-height: 200px;
+}
